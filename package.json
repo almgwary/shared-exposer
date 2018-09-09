@@ -1,0 +1,22 @@
+{
+  "name": "shared-exposer",
+  "version": "1.0.0",
+  "description": "shared-exposer is used to expose shared libraries to the project and auto install them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almgwary/shared-exposer.git"
+  },
+  "author": "almgwary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almgwary/shared-exposer/issues"
+  },
+  "homepage": "https://github.com/almgwary/shared-exposer#readme",
+  "dependencies": {
+    "file-saver": "^1.3.8"
+  }
+}
